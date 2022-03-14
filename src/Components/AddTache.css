@@ -1,0 +1,19 @@
+.ajout_tache {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: blueviolet;
+  padding: 20px;
+}
+.input {
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: black;
+}
+.button {
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: black;
+  font-size: large;
+}

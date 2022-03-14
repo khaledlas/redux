@@ -1,0 +1,25 @@
+.boutons-filtres {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.buttonn {
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: black;
+  font-size: large;
+  background-color: darkgrey;
+}
+
+.buttonn2 {
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: black;
+  font-size: large;
+  background-color: mediumvioletred;
+}
